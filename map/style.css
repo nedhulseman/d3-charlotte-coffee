@@ -1,0 +1,118 @@
+.streets {
+      stroke: #DCDCDC;
+      stroke-width: 7;
+      fill: none;
+      }
+
+#body {
+  height: 100%;
+  background-color: #F8F8F8;
+}
+.vis {
+  background-color: white;;
+  color: white;
+  outline: 3px solid #D3d3d3;
+}
+.axis {
+  stroke: #00778B;
+}
+.head{
+  width: 100%;
+  background-color: #00778B;
+  color: white;
+  font-weight: bold;
+  font-family: verdana;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+h2{
+  width: 100%;
+  background: #1D1160;
+  color: white;
+  font-weight: bold;
+  font-family: verdana;
+  text-align: center;
+  margin: 0px;
+}
+#map {
+        width: 450px;
+        height: 415px;
+        float: left;
+        margin: 15px;
+        text-align: left;
+      }
+
+#prices-over-time {
+        width: 450px;
+        height: 415px;
+        float: left;
+        margin: 15px;
+        fill: none;
+        stroke: #000;
+      }
+
+
+
+#menu-prices {
+        width: 250;
+        height: 415px;
+        float: left;
+        margin: 15px;
+        text-align: center;
+      }
+#menu-table{
+  color: black;
+  y:60px;
+}
+#menu {
+  x: 50;
+  y: 25;
+  width: 200px;
+  height: 300px;
+  border-radius: 25px;
+  background: #00788C;
+  margin: 10px;
+  outline: none;
+  color: white;
+}
+#name-con {
+  min-height: 30px;
+  display: inline-block;
+}
+
+tables, th, td {
+  border: 3px solid #DCDCDC;
+  color: white;
+}
+table {
+  border-collapse: collapse;
+  font-family: verdana;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+th {
+  text-align: middle;
+}
+
+td {
+
+  text-align: left;
+}
+#inds {
+  color: red;
+  position: relative;
+  top: 50px;
+  left: 12px;
+}
+
+#inds {
+  background-color: #696969;
+  color: #ffffff;
+  border-radius: 3px;
+}
+select:active, select:hover {
+  outline-color: #ffffff;
+}
+button:focus {outline:0;}

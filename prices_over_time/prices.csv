@@ -1,0 +1,445 @@
+date,shop,price,drink
+1/1/2019,Parliament,2.75,drip
+12/1/2018,Parliament,2.7,drip
+11/1/2018,Parliament,2.7,drip
+10/1/2018,Parliament,2.7,drip
+9/1/2018,Parliament,2.7,drip
+8/1/2018,Parliament,2.7,drip
+7/1/2018,Parliament,2.65,drip
+6/1/2018,Parliament,2.65,drip
+5/1/2018,Parliament,2.65,drip
+4/1/2018,Parliament,2.65,drip
+3/1/2018,Parliament,2.65,drip
+2/1/2018,Parliament,2.65,drip
+1/1/2018,Parliament,2.65,drip
+12/1/2017,Parliament,2.65,drip
+11/1/2017,Parliament,2.65,drip
+10/1/2017,Parliament,2.6,drip
+9/1/2017,Parliament,2.5,drip
+8/1/2017,Parliament,2.5,drip
+7/1/2017,Parliament,2.5,drip
+6/1/2017,Parliament,2.5,drip
+5/1/2017,Parliament,2.5,drip
+4/1/2017,Parliament,2.5,drip
+3/1/2017,Parliament,2.5,drip
+2/1/2017,Parliament,2.5,drip
+1/1/2017,Parliament,2.5,drip
+12/1/2016,Parliament,2.5,drip
+11/1/2016,Parliament,2.5,drip
+10/1/2016,Parliament,2.5,drip
+9/1/2016,Parliament,2.5,drip
+8/1/2016,Parliament,2.4,drip
+7/1/2016,Parliament,2.4,drip
+6/1/2016,Parliament,2.3,drip
+5/1/2016,Parliament,2.3,drip
+4/1/2016,Parliament,2.3,drip
+3/1/2016,Parliament,2.3,drip
+2/1/2016,Parliament,2.3,drip
+1/1/2016,Parliament,2.3,drip
+12/1/2015,Parliament,2.2,drip
+11/1/2015,Parliament,2.3,drip
+10/1/2015,Parliament,2.2,drip
+9/1/2015,Parliament,2,drip
+8/1/2015,Parliament,2,drip
+7/1/2015,Parliament,1.6,drip
+6/1/2015,Parliament,1.6,drip
+5/1/2015,Parliament,1.7,drip
+1/1/2019,Parliament,4,latte
+12/1/2018,Parliament,3.95,latte
+11/1/2018,Parliament,3.95,latte
+10/1/2018,Parliament,3.95,latte
+9/1/2018,Parliament,3.95,latte
+8/1/2018,Parliament,3.95,latte
+7/1/2018,Parliament,3.9,latte
+6/1/2018,Parliament,3.9,latte
+5/1/2018,Parliament,3.9,latte
+4/1/2018,Parliament,3.9,latte
+3/1/2018,Parliament,3.9,latte
+2/1/2018,Parliament,3.9,latte
+1/1/2018,Parliament,3.9,latte
+12/1/2017,Parliament,3.9,latte
+11/1/2017,Parliament,3.9,latte
+10/1/2017,Parliament,3.85,latte
+9/1/2017,Parliament,3.75,latte
+8/1/2017,Parliament,3.75,latte
+7/1/2017,Parliament,3.75,latte
+6/1/2017,Parliament,3.75,latte
+5/1/2017,Parliament,3.75,latte
+4/1/2017,Parliament,3.75,latte
+3/1/2017,Parliament,3.75,latte
+2/1/2017,Parliament,3.75,latte
+1/1/2017,Parliament,3.75,latte
+12/1/2016,Parliament,3.75,latte
+11/1/2016,Parliament,3.75,latte
+10/1/2016,Parliament,3.75,latte
+9/1/2016,Parliament,3.75,latte
+8/1/2016,Parliament,3.65,latte
+7/1/2016,Parliament,3.65,latte
+6/1/2016,Parliament,3.55,latte
+5/1/2016,Parliament,3.55,latte
+4/1/2016,Parliament,3.55,latte
+3/1/2016,Parliament,3.55,latte
+2/1/2016,Parliament,3.55,latte
+1/1/2016,Parliament,3.55,latte
+12/1/2015,Parliament,3.45,latte
+11/1/2015,Parliament,3.55,latte
+10/1/2015,Parliament,3.45,latte
+9/1/2015,Parliament,3.25,latte
+8/1/2015,Parliament,3.25,latte
+7/1/2015,Parliament,2.85,latte
+6/1/2015,Parliament,2.85,latte
+5/1/2015,Parliament,2.95,latte
+1/1/2019,Not Just Coffee,3,drip
+12/1/2018,Not Just Coffee,3,drip
+11/1/2018,Not Just Coffee,3,drip
+10/1/2018,Not Just Coffee,3,drip
+9/1/2018,Not Just Coffee,3,drip
+8/1/2018,Not Just Coffee,3,drip
+7/1/2018,Not Just Coffee,3,drip
+6/1/2018,Not Just Coffee,3,drip
+5/1/2018,Not Just Coffee,3,drip
+4/1/2018,Not Just Coffee,3,drip
+3/1/2018,Not Just Coffee,3,drip
+2/1/2018,Not Just Coffee,3,drip
+1/1/2018,Not Just Coffee,3,drip
+12/1/2017,Not Just Coffee,3,drip
+11/1/2017,Not Just Coffee,3,drip
+10/1/2017,Not Just Coffee,3,drip
+9/1/2017,Not Just Coffee,3,drip
+8/1/2017,Not Just Coffee,2.75,drip
+7/1/2017,Not Just Coffee,2.75,drip
+6/1/2017,Not Just Coffee,2.75,drip
+5/1/2017,Not Just Coffee,2.75,drip
+4/1/2017,Not Just Coffee,2.75,drip
+3/1/2017,Not Just Coffee,2.75,drip
+2/1/2017,Not Just Coffee,2.75,drip
+1/1/2017,Not Just Coffee,2.4,drip
+12/1/2016,Not Just Coffee,2.4,drip
+11/1/2016,Not Just Coffee,2.4,drip
+10/1/2016,Not Just Coffee,2.5,drip
+9/1/2016,Not Just Coffee,2.5,drip
+8/1/2016,Not Just Coffee,2.5,drip
+7/1/2016,Not Just Coffee,2.5,drip
+6/1/2016,Not Just Coffee,2.5,drip
+5/1/2016,Not Just Coffee,2.5,drip
+4/1/2016,Not Just Coffee,2.4,drip
+3/1/2016,Not Just Coffee,2.4,drip
+2/1/2016,Not Just Coffee,2.4,drip
+1/1/2016,Not Just Coffee,2.3,drip
+12/1/2015,Not Just Coffee,2.3,drip
+11/1/2015,Not Just Coffee,2.3,drip
+10/1/2015,Not Just Coffee,2.3,drip
+9/1/2015,Not Just Coffee,2.3,drip
+8/1/2015,Not Just Coffee,2.3,drip
+7/1/2015,Not Just Coffee,2.3,drip
+6/1/2015,Not Just Coffee,2.3,drip
+5/1/2015,Not Just Coffee,2.3,drip
+1/1/2019,Not Just Coffee,4.25,latte
+12/1/2018,Not Just Coffee,4.25,latte
+11/1/2018,Not Just Coffee,4.25,latte
+10/1/2018,Not Just Coffee,4.25,latte
+9/1/2018,Not Just Coffee,4.25,latte
+8/1/2018,Not Just Coffee,4.25,latte
+7/1/2018,Not Just Coffee,4.25,latte
+6/1/2018,Not Just Coffee,4.25,latte
+5/1/2018,Not Just Coffee,4.25,latte
+4/1/2018,Not Just Coffee,4.25,latte
+3/1/2018,Not Just Coffee,4.25,latte
+2/1/2018,Not Just Coffee,4.25,latte
+1/1/2018,Not Just Coffee,4.25,latte
+12/1/2017,Not Just Coffee,4.25,latte
+11/1/2017,Not Just Coffee,4.25,latte
+10/1/2017,Not Just Coffee,4.25,latte
+9/1/2017,Not Just Coffee,4.25,latte
+8/1/2017,Not Just Coffee,4,latte
+7/1/2017,Not Just Coffee,4,latte
+6/1/2017,Not Just Coffee,4,latte
+5/1/2017,Not Just Coffee,4,latte
+4/1/2017,Not Just Coffee,4,latte
+3/1/2017,Not Just Coffee,4,latte
+2/1/2017,Not Just Coffee,4,latte
+1/1/2017,Not Just Coffee,3.65,latte
+12/1/2016,Not Just Coffee,3.65,latte
+11/1/2016,Not Just Coffee,3.65,latte
+10/1/2016,Not Just Coffee,3.75,latte
+9/1/2016,Not Just Coffee,3.75,latte
+8/1/2016,Not Just Coffee,3.75,latte
+7/1/2016,Not Just Coffee,3.75,latte
+6/1/2016,Not Just Coffee,3.75,latte
+5/1/2016,Not Just Coffee,3.75,latte
+4/1/2016,Not Just Coffee,3.65,latte
+3/1/2016,Not Just Coffee,3.65,latte
+2/1/2016,Not Just Coffee,3.65,latte
+1/1/2016,Not Just Coffee,3.55,latte
+12/1/2015,Not Just Coffee,3.55,latte
+11/1/2015,Not Just Coffee,3.55,latte
+10/1/2015,Not Just Coffee,3.55,latte
+9/1/2015,Not Just Coffee,3.55,latte
+8/1/2015,Not Just Coffee,3.55,latte
+7/1/2015,Not Just Coffee,3.55,latte
+6/1/2015,Not Just Coffee,3.55,latte
+1/1/2019,Starbucks Coffee,2.25,drip
+12/1/2018,Starbucks Coffee,2.25,drip
+11/1/2018,Starbucks Coffee,2.25,drip
+10/1/2018,Starbucks Coffee,2.25,drip
+9/1/2018,Starbucks Coffee,2.25,drip
+8/1/2018,Starbucks Coffee,2.25,drip
+7/1/2018,Starbucks Coffee,2.25,drip
+6/1/2018,Starbucks Coffee,2.25,drip
+5/1/2018,Starbucks Coffee,2.25,drip
+4/1/2018,Starbucks Coffee,2.25,drip
+3/1/2018,Starbucks Coffee,2,drip
+2/1/2018,Starbucks Coffee,2,drip
+1/1/2018,Starbucks Coffee,2,drip
+12/1/2017,Starbucks Coffee,2,drip
+11/1/2017,Starbucks Coffee,2,drip
+10/1/2017,Starbucks Coffee,1.85,drip
+9/1/2017,Starbucks Coffee,1.85,drip
+8/1/2017,Starbucks Coffee,1.85,drip
+7/1/2017,Starbucks Coffee,1.85,drip
+6/1/2017,Starbucks Coffee,1.85,drip
+5/1/2017,Starbucks Coffee,1.85,drip
+4/1/2017,Starbucks Coffee,1.85,drip
+3/1/2017,Starbucks Coffee,1.85,drip
+2/1/2017,Starbucks Coffee,1.75,drip
+1/1/2017,Starbucks Coffee,1.75,drip
+12/1/2016,Starbucks Coffee,1.75,drip
+11/1/2016,Starbucks Coffee,1.75,drip
+10/1/2016,Starbucks Coffee,1.75,drip
+9/1/2016,Starbucks Coffee,1.75,drip
+8/1/2016,Starbucks Coffee,1.75,drip
+7/1/2016,Starbucks Coffee,1.75,drip
+6/1/2016,Starbucks Coffee,1.25,drip
+5/1/2016,Starbucks Coffee,1.25,drip
+4/1/2016,Starbucks Coffee,1.25,drip
+3/1/2016,Starbucks Coffee,1.25,drip
+2/1/2016,Starbucks Coffee,1.25,drip
+1/1/2016,Starbucks Coffee,1.25,drip
+12/1/2015,Starbucks Coffee,1.25,drip
+11/1/2015,Starbucks Coffee,1.25,drip
+10/1/2015,Starbucks Coffee,1.25,drip
+9/1/2015,Starbucks Coffee,1.25,drip
+8/1/2015,Starbucks Coffee,1.25,drip
+7/1/2015,Starbucks Coffee,1.25,drip
+6/1/2015,Starbucks Coffee,1.25,drip
+5/1/2015,Starbucks Coffee,1.25,drip
+1/1/2019,Starbucks Coffee,3.5,latte
+12/1/2018,Starbucks Coffee,3.5,latte
+11/1/2018,Starbucks Coffee,3.5,latte
+10/1/2018,Starbucks Coffee,3.5,latte
+9/1/2018,Starbucks Coffee,3.5,latte
+8/1/2018,Starbucks Coffee,3.5,latte
+7/1/2018,Starbucks Coffee,3.5,latte
+6/1/2018,Starbucks Coffee,3.5,latte
+5/1/2018,Starbucks Coffee,3.5,latte
+4/1/2018,Starbucks Coffee,3.5,latte
+3/1/2018,Starbucks Coffee,3.25,latte
+2/1/2018,Starbucks Coffee,3.25,latte
+1/1/2018,Starbucks Coffee,3.25,latte
+12/1/2017,Starbucks Coffee,3.25,latte
+11/1/2017,Starbucks Coffee,3.25,latte
+10/1/2017,Starbucks Coffee,3.1,latte
+9/1/2017,Starbucks Coffee,3.1,latte
+8/1/2017,Starbucks Coffee,3.1,latte
+7/1/2017,Starbucks Coffee,3.1,latte
+6/1/2017,Starbucks Coffee,3.1,latte
+5/1/2017,Starbucks Coffee,3.1,latte
+4/1/2017,Starbucks Coffee,3.1,latte
+3/1/2017,Starbucks Coffee,3.1,latte
+2/1/2017,Starbucks Coffee,3,latte
+1/1/2017,Starbucks Coffee,3,latte
+12/1/2016,Starbucks Coffee,3,latte
+11/1/2016,Starbucks Coffee,3,latte
+10/1/2016,Starbucks Coffee,3,latte
+9/1/2016,Starbucks Coffee,3,latte
+8/1/2016,Starbucks Coffee,3,latte
+7/1/2016,Starbucks Coffee,3,latte
+6/1/2016,Starbucks Coffee,2.5,latte
+5/1/2016,Starbucks Coffee,2.5,latte
+4/1/2016,Starbucks Coffee,2.5,latte
+3/1/2016,Starbucks Coffee,2.5,latte
+2/1/2016,Starbucks Coffee,2.5,latte
+1/1/2016,Starbucks Coffee,2.5,latte
+12/1/2015,Starbucks Coffee,2.5,latte
+11/1/2015,Starbucks Coffee,2.5,latte
+10/1/2015,Starbucks Coffee,2.5,latte
+9/1/2015,Starbucks Coffee,2.5,latte
+8/1/2015,Starbucks Coffee,2.5,latte
+7/1/2015,Starbucks Coffee,2.5,latte
+6/1/2015,Starbucks Coffee,2.5,latte
+1/1/2019,Queen City Grounds,0.75,drip
+12/1/2018,Queen City Grounds,0.75,drip
+11/1/2018,Queen City Grounds,0.75,drip
+10/1/2018,Queen City Grounds,0.75,drip
+9/1/2018,Queen City Grounds,0.75,drip
+8/1/2018,Queen City Grounds,0.75,drip
+7/1/2018,Queen City Grounds,0.75,drip
+6/1/2018,Queen City Grounds,1.75,drip
+5/1/2018,Queen City Grounds,1.75,drip
+4/1/2018,Queen City Grounds,1.75,drip
+3/1/2018,Queen City Grounds,1.75,drip
+2/1/2018,Queen City Grounds,1.75,drip
+1/1/2018,Queen City Grounds,1.75,drip
+12/1/2017,Queen City Grounds,1.75,drip
+11/1/2017,Queen City Grounds,1.75,drip
+10/1/2017,Queen City Grounds,1.75,drip
+9/1/2017,Queen City Grounds,1.5,drip
+8/1/2017,Queen City Grounds,1.5,drip
+7/1/2017,Queen City Grounds,1.5,drip
+6/1/2017,Queen City Grounds,1.5,drip
+5/1/2017,Queen City Grounds,1.5,drip
+4/1/2017,Queen City Grounds,1.5,drip
+3/1/2017,Queen City Grounds,1.5,drip
+2/1/2017,Queen City Grounds,1.5,drip
+1/1/2017,Queen City Grounds,1.5,drip
+12/1/2016,Queen City Grounds,1.5,drip
+11/1/2016,Queen City Grounds,1.5,drip
+10/1/2016,Queen City Grounds,1.5,drip
+9/1/2016,Queen City Grounds,1.5,drip
+8/1/2016,Queen City Grounds,1.5,drip
+7/1/2016,Queen City Grounds,2,drip
+6/1/2016,Queen City Grounds,2,drip
+5/1/2016,Queen City Grounds,2,drip
+4/1/2016,Queen City Grounds,2,drip
+3/1/2016,Queen City Grounds,2,drip
+2/1/2016,Queen City Grounds,2,drip
+1/1/2016,Queen City Grounds,2,drip
+12/1/2015,Queen City Grounds,2,drip
+11/1/2015,Queen City Grounds,2,drip
+10/1/2015,Queen City Grounds,2,drip
+9/1/2015,Queen City Grounds,2,drip
+8/1/2015,Queen City Grounds,2,drip
+7/1/2015,Queen City Grounds,2,drip
+6/1/2015,Queen City Grounds,2,drip
+5/1/2015,Queen City Grounds,2,drip
+1/1/2019,Queen City Grounds,3.75,latte
+12/1/2018,Queen City Grounds,3.75,latte
+11/1/2018,Queen City Grounds,3.75,latte
+10/1/2018,Queen City Grounds,3.75,latte
+9/1/2018,Queen City Grounds,3.75,latte
+8/1/2018,Queen City Grounds,3.75,latte
+7/1/2018,Queen City Grounds,3.75,latte
+6/1/2018,Queen City Grounds,3.75,latte
+5/1/2018,Queen City Grounds,3.75,latte
+4/1/2018,Queen City Grounds,3.75,latte
+3/1/2018,Queen City Grounds,3.75,latte
+2/1/2018,Queen City Grounds,3.75,latte
+1/1/2018,Queen City Grounds,3.75,latte
+12/1/2017,Queen City Grounds,3.75,latte
+11/1/2017,Queen City Grounds,4,latte
+10/1/2017,Queen City Grounds,4,latte
+9/1/2017,Queen City Grounds,4,latte
+8/1/2017,Queen City Grounds,4,latte
+7/1/2017,Queen City Grounds,4,latte
+6/1/2017,Queen City Grounds,4,latte
+5/1/2017,Queen City Grounds,4,latte
+4/1/2017,Queen City Grounds,4,latte
+3/1/2017,Queen City Grounds,4,latte
+2/1/2017,Queen City Grounds,4,latte
+1/1/2017,Queen City Grounds,4,latte
+12/1/2016,Queen City Grounds,4,latte
+11/1/2016,Queen City Grounds,4,latte
+10/1/2016,Queen City Grounds,4,latte
+9/1/2016,Queen City Grounds,4,latte
+8/1/2016,Queen City Grounds,4.25,latte
+7/1/2016,Queen City Grounds,4.25,latte
+6/1/2016,Queen City Grounds,4.25,latte
+5/1/2016,Queen City Grounds,4.25,latte
+4/1/2016,Queen City Grounds,4.25,latte
+3/1/2016,Queen City Grounds,4.25,latte
+2/1/2016,Queen City Grounds,4.25,latte
+1/1/2016,Queen City Grounds,4.25,latte
+12/1/2015,Queen City Grounds,4.25,latte
+11/1/2015,Queen City Grounds,4.25,latte
+10/1/2015,Queen City Grounds,4.25,latte
+9/1/2015,Queen City Grounds,4.25,latte
+8/1/2015,Queen City Grounds,4.25,latte
+7/1/2015,Queen City Grounds,4.25,latte
+1/1/2019,Caribou Coffee,2.65,drip
+12/1/2018,Caribou Coffee,2.65,drip
+11/1/2018,Caribou Coffee,2.65,drip
+10/1/2018,Caribou Coffee,2.65,drip
+9/1/2018,Caribou Coffee,2.65,drip
+8/1/2018,Caribou Coffee,2.625,drip
+7/1/2018,Caribou Coffee,2.625,drip
+6/1/2018,Caribou Coffee,2.625,drip
+5/1/2018,Caribou Coffee,2.625,drip
+4/1/2018,Caribou Coffee,2.625,drip
+3/1/2018,Caribou Coffee,2.625,drip
+2/1/2018,Caribou Coffee,2.625,drip
+1/1/2018,Caribou Coffee,2.625,drip
+12/1/2017,Caribou Coffee,2.625,drip
+11/1/2017,Caribou Coffee,2.6,drip
+10/1/2017,Caribou Coffee,2.55,drip
+9/1/2017,Caribou Coffee,2.425,drip
+8/1/2017,Caribou Coffee,2.425,drip
+7/1/2017,Caribou Coffee,2.425,drip
+6/1/2017,Caribou Coffee,2.425,drip
+5/1/2017,Caribou Coffee,2.425,drip
+4/1/2017,Caribou Coffee,2.425,drip
+3/1/2017,Caribou Coffee,2.425,drip
+2/1/2017,Caribou Coffee,2.25,drip
+1/1/2017,Caribou Coffee,2.25,drip
+12/1/2016,Caribou Coffee,2.25,drip
+11/1/2016,Caribou Coffee,2.3,drip
+10/1/2016,Caribou Coffee,2.3,drip
+9/1/2016,Caribou Coffee,2.25,drip
+8/1/2016,Caribou Coffee,2.25,drip
+7/1/2016,Caribou Coffee,2.2,drip
+6/1/2016,Caribou Coffee,2.2,drip
+5/1/2016,Caribou Coffee,2.15,drip
+4/1/2016,Caribou Coffee,2.15,drip
+3/1/2016,Caribou Coffee,2.15,drip
+2/1/2016,Caribou Coffee,2.1,drip
+1/1/2016,Caribou Coffee,2.05,drip
+12/1/2015,Caribou Coffee,2.1,drip
+11/1/2015,Caribou Coffee,2.05,drip
+10/1/2015,Caribou Coffee,1.95,drip
+9/1/2015,Caribou Coffee,1.95,drip
+8/1/2015,Caribou Coffee,1.75,drip
+7/1/2015,Caribou Coffee,1.75,drip
+6/1/2015,Caribou Coffee,1.8,drip
+5/1/2015,Caribou Coffee,3.925,drip
+1/1/2019,Caribou Coffee,3.9,latte
+12/1/2018,Caribou Coffee,3.9,latte
+11/1/2018,Caribou Coffee,3.9,latte
+10/1/2018,Caribou Coffee,3.9,latte
+9/1/2018,Caribou Coffee,3.9,latte
+8/1/2018,Caribou Coffee,3.875,latte
+7/1/2018,Caribou Coffee,3.875,latte
+6/1/2018,Caribou Coffee,3.875,latte
+5/1/2018,Caribou Coffee,3.875,latte
+4/1/2018,Caribou Coffee,3.875,latte
+3/1/2018,Caribou Coffee,3.875,latte
+2/1/2018,Caribou Coffee,3.875,latte
+1/1/2018,Caribou Coffee,3.875,latte
+12/1/2017,Caribou Coffee,3.875,latte
+11/1/2017,Caribou Coffee,3.85,latte
+10/1/2017,Caribou Coffee,3.8,latte
+9/1/2017,Caribou Coffee,3.675,latte
+8/1/2017,Caribou Coffee,3.675,latte
+7/1/2017,Caribou Coffee,3.675,latte
+6/1/2017,Caribou Coffee,3.675,latte
+5/1/2017,Caribou Coffee,3.675,latte
+4/1/2017,Caribou Coffee,3.675,latte
+3/1/2017,Caribou Coffee,3.675,latte
+2/1/2017,Caribou Coffee,3.5,latte
+1/1/2017,Caribou Coffee,3.5,latte
+12/1/2016,Caribou Coffee,3.5,latte
+11/1/2016,Caribou Coffee,3.55,latte
+10/1/2016,Caribou Coffee,3.55,latte
+9/1/2016,Caribou Coffee,3.5,latte
+8/1/2016,Caribou Coffee,3.5,latte
+7/1/2016,Caribou Coffee,3.45,latte
+6/1/2016,Caribou Coffee,3.45,latte
+5/1/2016,Caribou Coffee,3.4,latte
+4/1/2016,Caribou Coffee,3.4,latte
+3/1/2016,Caribou Coffee,3.4,latte
+2/1/2016,Caribou Coffee,3.35,latte
+1/1/2016,Caribou Coffee,3.3,latte
+12/1/2015,Caribou Coffee,3.35,latte
+11/1/2015,Caribou Coffee,3.3,latte
+10/1/2015,Caribou Coffee,3.2,latte
+9/1/2015,Caribou Coffee,3.2,latte
+8/1/2015,Caribou Coffee,3,latte
+7/1/2015,Caribou Coffee,3,latte

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Dashboard</title>
+
+    <link rel="stylesheet" href="map/style.css">
+    <link rel="stylesheet" href="prices_over_time/bootstrap.min.css">
+
+
+  </head>
+  <body id="body">
+    <div class="head">
+      <h1>Uptown Charlotte Coffee Prices</h1>
+    </div>
+    <div id="background">
+        <div class="vis" id="prices-over-time">
+          <h2>Prices Over Time</h2>
+          <select id="inds">
+            <option value="drip" selected="selected">drip</option>
+            <option value="latte">latte</option>
+          </select>
+        </div>
+
+        <!-- <div class="vis" id="legendContainer">
+          <svg id="legend"></svg>
+        </div> -->
+        <div class="vis" id="map">
+          <h2>Map of Uptown Charlotte</h2>
+        </div>
+        <div class="vis" id="menu-prices">
+          <h2> Menu Prices</h2>
+          <div class="vis" id="menu">
+            <div id ="name-con"><h3 id="shop-name"></h3></div>
+
+            <table id="menu-table">
+
+                <tr> <th>Drink</th> <th>Price</th> </tr>
+                <tr> <td>Drip</td> <td id="drip"></td> </tr>
+                <tr> <td>Espresso</td> <td id="espr"></td> </tr>
+                <tr> <td>Latte</td> <td id="latte"></td> </tr>
+                <tr> <td>V. Latte</td> <td id="vlatte"></td> </tr>
+            </table>
+          </div>
+
+        </div>
+
+
+    </div>
+
+
+    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="prices_over_time/prices_over_time.js"></script>
+    <script src="map/map.js"></script>
+
+
+  </body>
+</html>
